@@ -48,7 +48,7 @@
         "rxjs": "^6.0.0",
         "rxjs-compat": "^6.2.0",
         "zone.js": "^0.8.26",
-        "highcharts": "7.0.1",
+        "highcharts": "8.2.0",
         "@highcharts/map-collection": "1.1.2",
         "highcharts-custom-events": "2.2.2"
     },
